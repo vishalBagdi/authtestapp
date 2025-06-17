@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken')
 
 const cookieParser = require('cookie-parser');
 const path = require('path');
-const { hash } = require('crypto');
+const { hash } = require('bcrypto');
 
 app.set("view engine", "ejs");
 app.use(express.json());
