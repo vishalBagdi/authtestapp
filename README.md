@@ -1,0 +1,1 @@
+Basic auth web for performing authtication and user can create their account and it contain login logout functionality. 
